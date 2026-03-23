@@ -1,6 +1,7 @@
 # SecureAPI
 <img width="1155" height="713" alt="image" src="https://github.com/user-attachments/assets/688392ed-fde3-4f03-a417-c19cc8ac3eb8" />
 https://pypi.org/project/secureapi/
+
 SecureAPI is a Python API authorization library that works with any framework.
 It provides a centralized and reusable way to enforce access control, prevent ID tampering, and standardize authorization logic across applications.
 

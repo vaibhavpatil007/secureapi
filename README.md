@@ -322,9 +322,10 @@ SecureAPI helps protect against:
 # Contributing
 
 ```bash
-git clone https://github.com/yourusername/secureapi
+git clone https://github.com/vaibhavpatil007/secureapi
 cd secureapi
-pip install -e .
+pip install -r requirements.txt
+
 ```
 
 ---
